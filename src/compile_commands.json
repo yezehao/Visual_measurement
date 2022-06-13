@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/mnt/d/UOL/ELEC230/Assignment4/src",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -o CMakeFiles/ZY_G.dir/ZY_G.cpp.o -c /mnt/d/UOL/ELEC230/Assignment4/src/ZY_G.cpp",
+  "file": "/mnt/d/UOL/ELEC230/Assignment4/src/ZY_G.cpp"
+},
+{
+  "directory": "/mnt/d/UOL/ELEC230/Assignment4/src",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -o CMakeFiles/ZY_S.dir/ZY_S.cpp.o -c /mnt/d/UOL/ELEC230/Assignment4/src/ZY_S.cpp",
+  "file": "/mnt/d/UOL/ELEC230/Assignment4/src/ZY_S.cpp"
+},
+{
+  "directory": "/mnt/d/UOL/ELEC230/Assignment4/src",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -o CMakeFiles/ZY_C.dir/ZY_C.cpp.o -c /mnt/d/UOL/ELEC230/Assignment4/src/ZY_C.cpp",
+  "file": "/mnt/d/UOL/ELEC230/Assignment4/src/ZY_C.cpp"
+},
+{
+  "directory": "/mnt/d/UOL/ELEC230/Assignment4/src",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -o CMakeFiles/ZY_H.dir/ZY_H.cpp.o -c /mnt/d/UOL/ELEC230/Assignment4/src/ZY_H.cpp",
+  "file": "/mnt/d/UOL/ELEC230/Assignment4/src/ZY_H.cpp"
+},
+{
+  "directory": "/mnt/d/UOL/ELEC230/Assignment4/src",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -o CMakeFiles/ZY_backsub.dir/ZY_backsub.cpp.o -c /mnt/d/UOL/ELEC230/Assignment4/src/ZY_backsub.cpp",
+  "file": "/mnt/d/UOL/ELEC230/Assignment4/src/ZY_backsub.cpp"
+}
+]
