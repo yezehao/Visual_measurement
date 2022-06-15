@@ -1,7 +1,0 @@
-/mnt/d/UOL/ELEC230/Assignment4/src/CMakeFiles/ZY_G.dir
-/mnt/d/UOL/ELEC230/Assignment4/src/CMakeFiles/ZY_S.dir
-/mnt/d/UOL/ELEC230/Assignment4/src/CMakeFiles/ZY_C.dir
-/mnt/d/UOL/ELEC230/Assignment4/src/CMakeFiles/ZY_H.dir
-/mnt/d/UOL/ELEC230/Assignment4/src/CMakeFiles/ZY_backsub.dir
-/mnt/d/UOL/ELEC230/Assignment4/src/CMakeFiles/edit_cache.dir
-/mnt/d/UOL/ELEC230/Assignment4/src/CMakeFiles/rebuild_cache.dir

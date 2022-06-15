@@ -1,3 +1,0 @@
-```shell
-> cmake . -Bbuild
-```

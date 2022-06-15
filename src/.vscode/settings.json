@@ -1,7 +1,0 @@
-{
-    "clangd.path": "/usr/bin/clangd-14",
-    "clangd.arguments": [
-        "--compile-commands-dir=${workspaceFolder}/build",
-        "--clang-tidy",
-    ],
-}
