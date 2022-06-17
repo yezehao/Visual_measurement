@@ -6,16 +6,16 @@ Visual measurement based on CNN and reinforcement learning. The target of the pr
 ## Week 1
 The first assignment is mainly about digital image representation and processing, whcih can refer to *Digital Image Processing* written by *R.C.Gonzalez*. 
 
-- [ ] Gray-scale transformation
-- [ ] Histogram
-- [ ] Convolution
-- [ ] Spatial filtering
-- [ ] Smoothing and Sharpening
-- [ ] Edge Filter
-- [ ] Frequency Domain Filter
-- [ ] Image Segementation
-- [ ] Edge Detection Operator about points and lines
-- [ ] Morphological processing
+- [x] Gray-scale transformation
+- [x] Histogram
+- [x] Convolution
+- [x] Spatial filtering
+- [x] Smoothing and Sharpening
+- [x] Edge Filter
+- [x] Frequency Domain Filter
+- [x] Image Segementation
+- [x] Edge Detection Operator about points and lines
+- [x] Morphological processing
 
 ## Week 2
 Realise the size measurement of objects based on the principle of *Hough Transform*.
