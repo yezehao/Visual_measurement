@@ -57,7 +57,7 @@ imshow(O);
              midpointy(3)=(recty(2)+recty(3))/2;
              midpointy(4)=(recty(4)+recty(1))/2;
       % 绘制目标长宽中点间连线
-     line(midpointx,midpointy,'color','m','linewidth',2);
+     % line(midpointx,midpointy,'color','m','linewidth',2);
      target_float_length=length/pixels_length_rate;
      target_length=num2str(target_float_length);
      target_float_width=width/pixels_width_rate;
