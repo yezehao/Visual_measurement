@@ -29,14 +29,14 @@ Realise the size measurement of objects based on the principle of *Hough Transfo
 + [python-opencv尺寸测量](https://blog.csdn.net/weixin_44623637/article/details/104077733)
 
 ## Week 3
-- [ ] Learn the knowledge about CNN and realize handwritten recognition according to MNIST data set.
+- [x] Learn the knowledge about CNN and realize handwritten recognition according to MNIST data set.
 
 
 **Reference**
 + [CNN(Andrew_NG)](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
 + [CNN(TensorFlow)](https://www.leiphone.com/category/yanxishe/HH3BbIfCqAtOAMbu.html)
 
-- [ ] Learn the ranging principle based on monocular vision, and realize the target ranging based on monocular camera.
+- [x] Learn the ranging principle based on monocular vision, and realize the target ranging based on monocular camera.
 
 
 **Reference**
