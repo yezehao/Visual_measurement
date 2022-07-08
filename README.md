@@ -44,8 +44,8 @@ Realise the size measurement of objects based on the principle of *Hough Transfo
 + [单目测距原理与实现（代码可运行）](https://blog.csdn.net/qq_43010752/article/details/122320949?spm=1001.2014.3001.5502)
 
 ## Week 4
-- [ ] Learn the principles in the 2020 ECCV paper "Single View Metrology in the Wild".
-- [ ] Measure the objects based on monocular camera, compare with the actual size of objects, and quantify the error.
+- [x] Learn the principles in the 2020 ECCV paper "Single View Metrology in the Wild".
+- [x] Measure the objects based on monocular camera, compare with the actual size of objects, and quantify the error.
 
 
 **Reference**
